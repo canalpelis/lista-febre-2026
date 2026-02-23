@@ -154,9 +154,6 @@ https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Anzoátegui TV (360p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Anzoátegui TV (360p)
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Aragon TV Internacional (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Aragon TV Internacional (720p)
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Archivos Extraterrestres" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Archivos Extraterrestres
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=16a06525-f7b6-4b9b-9028-57e6b3b3c419
 
@@ -198,5 +195,103 @@ https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Box Cinema" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Box Cinema
 https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8?ads.vf=kU8ru-Yl4zG
+
+#EXTINF:-1 tvg-id="" tvg-name="Buena TV (1080p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Buena TV (1080p)
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="C4 en Alerta" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",C4 en Alerta
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673f7446030a2c0008231bc3/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=195c7934-1611-4c21-8fed-dcf638b377d6
+
+#EXTINF:-1 tvg-id="" tvg-name="Cali TV (540p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Cali TV (540p)
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cana TV Digital (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Cana TV Digital (720p)
+https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 1 (1080p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Canal 1 (1080p)
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 1 (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Canal 1 (720p)
+https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 2 Alpavisión Neiva (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Canal 2 Alpavisión Neiva (720p)
+https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 21 Táchira (360p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Canal 21 Táchira (360p)
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 21 TV (1080p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Canal 21 TV (1080p)
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal 22 (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Canal 22 (720p)
+https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Más Televisión (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Canal Más Televisión (720p)
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Canal Mundo Visión (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Canal Mundo Visión (720p)
+https://movil.ejeserver.com/live/mundovisiontv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cazador de Homicidas" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Cazador de Homicidas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60ed5fb9c4716d0007d180c5/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=13a07cf5-9cd9-48a5-8101-764fc4a1e908&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=21221dcf-7170-4cf1-9015-cb81f2e72860
+
+#EXTINF:-1 tvg-id="" tvg-name="CBS en español" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",CBS en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d63ba0da-e45c-4221-b309-d4a95e097324
+
+#EXTINF:-1 tvg-id="" tvg-name="CDM Internacional (480p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",CDM Internacional (480p)
+https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Spanish" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",CGTN Spanish
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ChileVision (1080p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",ChileVision (1080p)
+http://38.250.127.17:9800/play/a05h/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine en español" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Cine en español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=b18cab47-c8c9-4310-a69e-1ee5c8a63e46
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Estrella (1080p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Cine Estrella (1080p)
+https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Premiere (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Cine Premiere (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sony (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Cine Sony (720p)
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Historia" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Pluto TV Historia
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61cd7b49543066000713b620/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=13a07cf5-9cd9-48a5-8101-764fc4a1e908&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8ce8c9eb-eda4-4486-8444-9a41383ef058
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Historia" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Pluto TV Historia
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=7507ee79-cc95-4fd0-b5d8-6e50bd704479
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Impacto" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Pluto TV Impacto
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/68adc697116b783a33f99e6c/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=13a07cf5-9cd9-48a5-8101-764fc4a1e908&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=9ac9e06c-df20-4055-ba2c-7df18e678daf
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Invasión Alien" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Pluto TV Invasión Alien
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a35ce346f420008d5c36e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=13a07cf5-9cd9-48a5-8101-764fc4a1e908&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e8b1b6f7-c44c-4230-9304-e639af85a3c1
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Investiga" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Pluto TV Investiga
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=2f3e4a39-7b85-4af8-908a-91074efb50d5
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Junior" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Pluto TV Junior
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=a320e44a-9d52-441f-a237-0c3cb6d52c2c
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Misterios" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Pluto TV Misterios
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=19b88635-293c-4317-a849-f7041a0a46a3
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Naturaleza" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Pluto TV Naturaleza
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=69a21fac-3b70-4f94-b347-69ec3ee1a147
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Pluto TV Novelas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e1fb2941-23af-433b-9599-9fb71d9986c1
+
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas de México" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Pluto TV Novelas de México
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d70404ac-49bf-444f-bd6a-e32030869a4c
+
+
+
 
 
