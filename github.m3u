@@ -1,6 +1,9 @@
 
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica Channel" tvg-logo="tvg-logo="https://live.staticflickr.com/65535/55111229063_5e6af0525f_w.jpg" group-title="▶️ Latinos ★",Costa Rica Channel
+http://resellerestoestv.com/movie/lupeLebrija/rd78qsaym/991601.mkv
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Costa Rica Channel" tvg-logo="tvg-logo="https://live.staticflickr.com/65535/55111229063_5e6af0525f_w.jpg" group-title="▶️ Latinos ★",Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
