@@ -12,3 +12,29 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="La 1 (720p)" tvg-logo="tvg-logo="https://live.staticflickr.com/65535/55111497115_925d344b0a.jpg" group-title="▶️ Latinos ★",La 1 (720p)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="La 2 (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",La 2 (720p)
+https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE Internacional" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",TVE Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Las Estrellas" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Latina (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Latina (720p)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TeleAragua (480p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",TeleAragua (480p)
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+
+#EXTINF:-1 tvg-id="" tvg-name="Telecosta (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Telecosta (720p)
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Telesur (480p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Telesur (480p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TVS Retro (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+
+
