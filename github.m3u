@@ -1,3 +1,4 @@
+
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="Costa Rica Channel" tvg-logo="tvg-logo="https://live.staticflickr.com/65535/55111229063_5e6af0525f_w.jpg" group-title="▶️ Latinos ★",Costa Rica Channel
@@ -35,6 +36,80 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVS Retro (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",TVS Retro (720p)
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="3ABN Latino" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="3Cat Càmeres del temps" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",3Cat Càmeres del temps
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="5TV Corrientes" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",5TV Corrientes
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="7 TeleValencia" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",7 TeleValencia
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="8 La Marina TV" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",8 La Marina TV
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="8NTV (1080p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",8NTV (1080p)
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="12tv (1080p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",12tv
+https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="13 Festival (1080p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",13 Festival (1080p)
+https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="13 Teleseries (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",13 Teleseries (720p)
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Canal de Noticias" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",24/7 Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="24 Horas (1080p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",24 Horas (1080p)
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="A&R Canal Adventista (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",A&R Canal Adventista (720p)
+http://51.222.9.192:3589/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore Pluto TV" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Acapulco Shore Pluto TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61a52615cbef2500072876e2/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=8b869c7d-5e82-4fc2-8ba4-b945d67c9988
+
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Acapulco Shore
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64dab1f835425100080e1e7b/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=70344680-ebf3-46b5-be72-1c5bb30690e4
+
+#EXTINF:-1 tvg-id="" tvg-name="Ace TV" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Ace TV
+https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Acento TV" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Acento TV
+https://acentotv01.streamprolive.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Activa TV (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="cumuladores Obsessivos" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",cumuladores Obsessivos
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656e2a4b4261ca00083aa99e/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=8ee99fa9-8924-42ef-bf8b-617216b5b280&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=93fcd9d1-d1a0-4f4d-9382-df1ddcb117e0
+
+#EXTINF:-1 tvg-id="" tvg-name="ADN 40 (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ADN TV+" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",ADN TV+
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Pura TV" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Adrenalina Pura TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61b793ccf571b80007b7a610/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=241a275c-cfe4-4279-a154-96b1a32dbb6e
+
+#EXTINF:-1 tvg-id="" tvg-name="Agape TV (720p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Agape TV (720p)
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Aguacate TV (1080p)" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Aguacate TV (1080p)
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Águila Roja" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Águila Roja
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6812206e1b3e3be031a5c363/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=13a07cf5-9cd9-48a5-8101-764fc4a1e908&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3523ea1a-8b74-4996-be4c-501ff4a47f27
+
+
 
 
 
