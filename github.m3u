@@ -293,8 +293,136 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=e1fb2941-23af-433b-9599-9fb71d9986c1
 
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas de México" tvg-logo="tvg-logo="" group-title="▶️ Latinos ★",Pluto TV Novelas de México
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d70404ac-49bf-444f-bd6a-e32030869a4c
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=610c8f98-68e8-48e7-9cc5-5dd3fefdcab5&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=d70404ac-49bf-444f-bd6a-e32030869a4
 
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/57238.v6.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | POPULARISIMA ESTEREO
+https://radiohd.streaminghd.co:7390/stream
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/revistaelcrisol.com/wp-content/uploads/2017/03/1a-uis.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | UIS ESTEREO
+http://emisoras.uis.edu.co:8000/mp3am
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/671009389139140608/_chkFAwe_400x400.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | SOPETRAN ESTEREO
+http://62.210.38.137:8320/;
+
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2016/12/Voces-Rovirenses.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | VOCES ROVIRENSES
+http://163.172.198.16:8626/index.html.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/-3333.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | CANTAR DE LOS ANDES
+http://62.210.38.137:8108/web/;web.mp3
+
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vExeMZbbSU.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | HUILA ESTEREO
+https://radiohd.streaminghd.co:7220/stream
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217226564414451715/CRT60UlL_400x400.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | MUSICA LLANERA
+http://192.99.203.81:8704/stream
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d5/b5/d5b52aa91609649ec2fcfc30283c6275.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO MUNDIAL ADVENTISTA
+https://n0d.radiojar.com/aesy2chkb?rj-ttl=5&rj-tok=AAABfKpdoRgA0zHAFBaTz25Hww
+
+#EXTINF:-1 tvg-logo="https://www.erescristiano.com/wp-content/uploads/2018/09/biblia-audio.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | BIBLIA NARRADA
+http://stream.zeno.fm/2bkm8ca9bshvv
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KbpyMAXDLe.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | Barranca-VIRTUAL
+http://stream1.305stream.com:8240/;
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/x72fqhwc7vbe.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | ECOS DEL TORBE
+http://ur58.lorini.net:50006/ECOSDELTORBE
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pZSf7mCeVE.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO REGGAE EN VIVO
+http://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3?listen.pls
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Cali_TV.png/revision/latest" group-title="Colombia", Cali TV (Santiago de Cali | Valle del Cauca) (540p)
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="ENTRETENIMIENTO", 3ABN Latino (720p)
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="ENTRETENIMIENTO", MyTime movie network Mexico (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Beteve
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", DeepHouse District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Freebie TV (720p)
+https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", Motorvision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="ENTRETENIMIENTO", NET TV
+https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dq9we3E.png" group-title="Honduras", EDN TV (1080p)
+https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Peru", Ovación TV (720p)
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="Mexico", TVMÁS (XHGV-TDT) (360p)
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mw4992J.png" group-title="Mexico", TVP (720p)
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="ENTRETENIMIENTO", MyTime movie network Mexico (720p)
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Argentina", DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://uatv.cl/wp-content/uploads/2016/01/marcauatv_2.png" group-title="Chile", Universidad Autónoma Temuco (UATV) (1080p)
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRK-1e7CelCeCS9W_K2lT3hvGqAwY0gCwgFy6L0DofFR9zPyxOfqnLdjYwTwfsi989kmo&usqp=CAU" group-title="COLOMBIA ⭐", COLOMBIA HQ | DW EN ESPAÑOL
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnBsdXRvLnR2X3BsdXRvX21vdmllc19ndWlkZV9pY29uXzE1OTAxNTk5OTZfMDQ5/icon.png?w=170&fakeurl=1" group-title="COLOMBIA ⭐", COLOMBIA HQ | CINE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=00fadf4b-cde1-4a5d-ab96-9295d310b30b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnBsdXRvLnR2X3BsdXRvX21vdmllc19ndWlkZV9pY29uXzE1OTAxNTk5OTZfMDQ5/icon.png?w=170&fakeurl=1" group-title="COLOMBIA ⭐", COLOMBIA HQ | CINE ESTELAR
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=f2c03fa6-1afa-4ede-bf97-406268e3a7d1&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/76b12f_f331914d260442069047f8fd3f5b90e5~mv2.png/v1/fill/w_96,h_72,al_c,q_85,usm_0.66_1.00_0.01/Mosca-1280x720_color_edited%20editado_edit.webp" group-title="COLOMBIA ⭐", COLOMBIA HQ | PEQUERADIO
+http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/l/8/57238.v6.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | POPULARISIMA ESTEREO
+https://radiohd.streaminghd.co:7390/stream
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/revistaelcrisol.com/wp-content/uploads/2017/03/1a-uis.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | UIS ESTEREO
+http://emisoras.uis.edu.co:8000/mp3am
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/671009389139140608/_chkFAwe_400x400.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | SOPETRAN ESTEREO
+http://62.210.38.137:8320/;
+
+#EXTINF:-1 tvg-logo="https://i1.sndcdn.com/avatars-000722622142-9okd1m-t500x500.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | UNI NORTE
+http://cactus2.uninorte.edu.co:1755/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/-3333.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | CANTAR DE LOS ANDES
+http://62.210.38.137:8108/web/;web.mp3
+
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/vExeMZbbSU.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | HUILA ESTEREO
+https://radiohd.streaminghd.co:7220/stream
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217226564414451715/CRT60UlL_400x400.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | MUSICA LLANERA
+http://192.99.203.81:8704/stream
+
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/d5/b5/d5b52aa91609649ec2fcfc30283c6275.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO MUNDIAL ADVENTISTA
+https://n0d.radiojar.com/aesy2chkb?rj-ttl=5&rj-tok=AAABfKpdoRgA0zHAFBaTz25Hww
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/KbpyMAXDLe.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | B-VIRTUAL
+http://stream1.305stream.com:8240/;
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/x72fqhwc7vbe.jpg" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | ECOS DEL TORBE
+http://ur58.lorini.net:50006/ECOSDELTORBE
+
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/pZSf7mCeVE.png" group-title="EMISORAS COLOMBIA⭐⭐⭐", COLOMBIA | RADIO REGGAE EN VIVO
+http://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3?listen.pls
 
 
 
