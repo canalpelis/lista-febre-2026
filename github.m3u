@@ -301,6 +301,24 @@ https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
 https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/d7338b50-0069-4bca-b904-adf4bf2ddfea:ATL/variant/48215209b486b06c621f95db82dea5fe/bandwidth/1927200.m3u8?aid=574462d1cab0f4d50866f001&uid=BX4HonqFrIJGU0RUMKE8DNLYwDbXuhbP&sid=xVpKDRi90TsV5RMLuZnGMQ6fTT0FQU2X&pid=Mi8LoAVT8ccpIoMuBoV97uQAgQdvkP1J&pid_dvr=eaADn6zIaARdsV7egteWN42mElhtsTYo&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=MmbL40bnB6XLrFodCVpNkp3bVWO9ASHbBV7fMh4nJDcueD7aDASfIVDK00Izvvxa1v9gMUDPyxj&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22Mi8LoAVT8ccpIoMuBoV97uQAgQdvkP1J%22%2Csu&adInsertionGoogleStreamId=d7338b50-0069-4bca-b904-adf4bf2ddfea%3AATL&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1772059579732&ot=ELKrsKj1jzAOOF5Rq5kf8g&proto=https&pz=us
 #EXTINF:-151,estremadura tv
 https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/1080p_5M_25fps_aac_128k.m3u8
+#EXTINF:-152,Trece España
+https://live-edge-ff-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/liveld/index.m3u8
+#EXTINF:-153,Canal Sur Andalucía España
+https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202_1.m3u8
+#EXTINF:-154,Condavision España
+https://5f71743aa95e4.streamlock.net:1936/Condavision/endirecto/chunklist_w435019721.m3u8
+#EXTINF:-155,La 1 Catalunya España
+https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_720.m3u8
+#EXTINF:-156,Venezolana de TV
+https://live.eu-north-1a.cf.dmcdn.net/sec2(BrPWcSEPQ4WhT0JyhJLmbWAPemDkV_nAPrxcj8avSp8DkZCU9sQhbCfa-VzgxQ2CcuwXPaxn-90kx_O2QcAHOka7ZOsuKHM-TuDxm1YtZ3Sk0U7H7kOX7si7nvaK_b1Q)/dm/3/x930kre/d/live-720@60.m3u8#cell=lcf-eu-north-1a
+#EXTINF:-157,VPI TV Venezuela
+https://live-us-cdn-3.tvstartupengine.com/live/playlist-prod-2771932d-c02d-4c94-b374-4d1900ede779/index.m3u8
+#EXTINF:-158,Globovision Venezuela
+https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/chunklist_w1868238910.m3u8
+
+
+
+
 
 
 tvg-name="■■■ COLOMBIA ■■■" tvg-logo="https://cdn.livesoccertv.com/tt/images/flags/48/colombia.png?q=65&w=48" group-title="🇨🇴 | COLOMBIA",■■■ COLOMBIA ■■■
