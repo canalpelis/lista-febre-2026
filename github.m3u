@@ -298,8 +298,9 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-149,France 24 Español
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_500.m3u8
 #EXTINF:-150,Canal Caracol Ahora
-https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/27992bcd-6deb-4285-8eba-cd46ecc1a368:CBF2/variant/48215209b486b06c621f95db82dea5fe/bandwidth/1927200.m3u8?aid=574462d1cab0f4d50866f001&uid=NM7CODRU3qbO1V1hChaWr2kwS5Ctol9Q&sid=hx5YwdZKNXTn6H0iO8gm8hbvW22RccDH&pid=6eC5NyWCaSnO9QQzatGtxmTCUeR6RsDx&pid_dvr=tQDfLHYSfG04J4YKTeK87urjDYQbETbK&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=AqKPE4hzMrngYmffyrnZ3v9cuB3MlRKMH1GyaBFPa0Fomik31C6kMabknA8qgBlaX8e0NwmAUZS&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%226eC5NyWCaSnO9QQzatGtxmTCUeR6RsDx%22%2Csu&adInsertionGoogleStreamId=27992bcd-6deb-4285-8eba-cd46ecc1a368%3ACBF2&es=us-b4-p-e-cg11.cdn.mdstrm.com&ote=1772051311354&ot=Djxc3TKFUYkIvpx67naDxw&proto=https&pz=us
-
+https://us-b4-p-e-mg17.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/jMfhk4r5R2y5gggPm8gjtw/stream/d7338b50-0069-4bca-b904-adf4bf2ddfea:ATL/variant/48215209b486b06c621f95db82dea5fe/bandwidth/1927200.m3u8?aid=574462d1cab0f4d50866f001&uid=BX4HonqFrIJGU0RUMKE8DNLYwDbXuhbP&sid=xVpKDRi90TsV5RMLuZnGMQ6fTT0FQU2X&pid=Mi8LoAVT8ccpIoMuBoV97uQAgQdvkP1J&pid_dvr=eaADn6zIaARdsV7egteWN42mElhtsTYo&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&access_token=MmbL40bnB6XLrFodCVpNkp3bVWO9ASHbBV7fMh4nJDcueD7aDASfIVDK00Izvvxa1v9gMUDPyxj&CMCD=cid%3D%22574463697b9817cf0886fc17%22%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22Mi8LoAVT8ccpIoMuBoV97uQAgQdvkP1J%22%2Csu&adInsertionGoogleStreamId=d7338b50-0069-4bca-b904-adf4bf2ddfea%3AATL&es=us-b4-p-e-mg17.cdn.mdstrm.com&ote=1772059579732&ot=ELKrsKj1jzAOOF5Rq5kf8g&proto=https&pz=us
+#EXTINF:-151,estremadura tv
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/1080p_5M_25fps_aac_128k.m3u8
 
 
 tvg-name="■■■ COLOMBIA ■■■" tvg-logo="https://cdn.livesoccertv.com/tt/images/flags/48/colombia.png?q=65&w=48" group-title="🇨🇴 | COLOMBIA",■■■ COLOMBIA ■■■
