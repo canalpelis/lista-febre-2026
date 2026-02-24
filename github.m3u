@@ -6,7 +6,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-3,La 1 (720p)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-4,La 2 (720p)
-https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 #EXTINF:-5,TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
 #EXTINF:-6,Las Estrellas
