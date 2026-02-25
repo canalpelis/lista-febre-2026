@@ -315,6 +315,64 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(BrPWcSEPQ4WhT0JyhJLmbWAPemDkV_nAPrxcj
 https://live-us-cdn-3.tvstartupengine.com/live/playlist-prod-2771932d-c02d-4c94-b374-4d1900ede779/index.m3u8
 #EXTINF:-158,Globovision Venezuela
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/chunklist_w1868238910.m3u8
+#EXTINF:-159,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-160,TeleSafor
+http://video.telesafor.com/hls/video_low.m3u8
+#EXTINF:-161,Alcarria TV España
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-162,Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-163,Atrescine
+http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
+#EXTINF:-164,B15 TV
+https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
+#EXTINF:-165,BBC Espsña 2
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-166,Brav TV
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
+#EXTINF:-167,Canal 1 col
+https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-168,Canal 10 Durango
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-168,Canal 21 Tachira (Ve)
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-169,Canal 2 Yopal
+http://131.221.41.94/hls/canal2.m3u8
+#EXTINF:-170,Canal Tro Plus
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
+#EXTINF:-171,Canal Tro (1080)
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-172,Chile Channel
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+#EXTINF:-173,Chile Vision 2
+http://38.250.127.17:9800/play/a05h/index.m3u8
+#EXTINF:-174,Clan TV (Es)
+https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+#EXTINF:-175,Clan TV (Internacional)
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/clan_int_main_1080.m3u8
+#EXTINF:-176,Click TV
+https://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-177,Cumbia Mix
+https://cloud.tvomix.com/CUMBIAMIX/index.m3u8
+#EXTINF:-178,Dios TV
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-179,Dios TV Kids
+https://s.emisoras.tv:8081/diostevekids/index.m3u8
+#EXTINF:-179,Ecotel TV
+https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
+#EXTINF:-179,ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-180,FIFA+ Hispanic America (720p)
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-181,FIFA+ Spain (720p)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-182,FOX Deportes)
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d0269d60bc8f000890facc/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=96186bd4-ccda-4af2-a3b9-7d20a3463218
+#EXTINF:-183,FX
+http://38.199.6.1:17001/play/a04u/index.m3u8
+#EXTINF:-183,FX
+http://38.199.6.1:17001/play/a04u/index.m3u8
 
 
 
