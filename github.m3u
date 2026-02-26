@@ -914,5 +914,93 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="La 2 (720p)" tvg-name="La 2 (720p)" tvg-logo="https://logo.m3uassets.com/la2.png" group-title="📺 | VARIADOS",La 2 (720p)
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="■■■ VARIADOS ■■■" tvg-logo="https://live.staticflickr.com/65535/55117878700_7af91af8fc_m.jpg?q=65&w=50" group-title="📺 | VARIADOS",■■■ VARIADOS ■■■
+#EXTINF:-1 tvg-id="Costa Rica Channel" tvg-name="Costa Rica Channel" tvg-logo="https://live.staticflickr.com/65535/55111229063_5e6af0525f_m.jpg" group-title="📺 | VARIADOS",Costa Rica Channel
+https://video0.rogohosting.com:19360/8006/8006.m3u8
+#EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-name="Frecuencia Musical TV" tvg-logo="https://live.staticflickr.com/65535/55111341089_4a3f17d5be_m.jpg" group-title="📺 | VARIADOS",Frecuencia Musical TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="La 1 (720p)" tvg-name="La 1 (720p)" tvg-logo="https://logo.m3uassets.com/la1.png" group-title="📺 | VARIADOS",La 1 (720p)
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La 2 (720p)" tvg-name="La 2 (720p)" tvg-logo="https://logo.m3uassets.com/la2.png" group-title="📺 | VARIADOS",La 2 (720p)
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-name="TVE Internacional" tvg-logo="https://live.staticflickr.com/65535/55117615411_50104f7d94_m.jpg" group-title="📺 | VARIADOS",TVE Internacional
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="📺 | VARIADOS",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="Latina (720p)" tvg-name="Latina (720p)" tvg-logo="https://i.postimg.cc/c1PqVdfF/logo-latina-despues.jpg" group-title="📺 | VARIADOS",Latina (720p)
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecosta (720p)" tvg-name="Telecosta (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfcQ8HBACi1qi1GUQaHX9O1C2zxg4_hCHjF1-jOs8COKYNhNM69Z9N5pk&s=10" group-title="📺 | VARIADOS",Telecosta (720p)
+https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
+#EXTINF:-1 tvg-id="Telesur (480p)" tvg-name="Telesur (480p)" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 | VARIADOS",Telesur (480p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur (720p)" tvg-name="Telesur (720p)" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 | VARIADOS",Telesur (720p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur (1080p)" tvg-name="Telesur (1080p)" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 | VARIADOS",Telesur (1080p)
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TVS Retro (720p)" tvg-name="TVS Retro (720p)" tvg-logo="https://live.staticflickr.com/65535/55118042300_29670b2de6_m.jpg" group-title="📺 | VARIADOS",TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="3ABN Latino" tvg-name="3ABN Latino" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNY--55ybg51vuNOafU3pEFKtjhcHEKWXCZQ&s" group-title="📺 | VARIADOS",3ABN Latino
+https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="5TV Corrientes" tvg-name="5TV Corrientes" tvg-logo="https://live.staticflickr.com/65535/55117667686_3a75283997_m.jpg" group-title="📺 | VARIADOS",5TV Corrientes
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTN INTERNACIONAL" tvg-name="EWTN INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/55117876273_70ec08db4e_m.jpg" group-title="📺 | VARIADOS",EWTN INTERNACIONAL
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="DW Español (720p)" tvg-name="DW Español (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DgT2Xzcch69mSpO1EGvdpsZuAc-Xk6e_kQ&s" group-title="📺 | VARIADOS",DW Español (720p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="RCN Internacional (720p)" tvg-name="RCN Internacional (720p)" tvg-logo="https://live.staticflickr.com/65535/55116816392_60feb2048f_m.jpg" group-title="📺 |VARIADOS", RCN Internacional (720p)
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RCN+ (720p)" tvg-name="RCN+ (720p)" tvg-logo="https://live.staticflickr.com/65535/55117897308_aa8b0d69fe_m.jpg" group-title="📺 |VARIADOS", RCN+ (720p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="7 TeleValencia" tvg-name="7 TeleValencia" tvg-logo="https://live.staticflickr.com/65535/55117707891_4c778ca74a_m.jpg" group-title="📺 |VARIADOS", 7 TeleValencia
+https://live-edge-par-1.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/66VKJOZE/index.m3u8
+#EXTINF:-1 tvg-id="7 TeleValencia 2" tvg-name="7 TeleValencia 2" tvg-logo="https://live.staticflickr.com/65535/55117707891_4c778ca74a_m.jpg" group-title="📺 |VARIADOS", 7 TeleValencia 2
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-id="8 La Marina TV" tvg-name="8 La Marina TV" tvg-logo="https://live.staticflickr.com/65535/55118107325_0f912832d1_m.jpg" group-title="📺 |VARIADOS", 8 La Marina TV
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:-1 tvg-id="8NTV (1080p)" tvg-name="8NTV (1080p)" tvg-logo="https://live.staticflickr.com/65535/55117722471_b7c2f8dfbe_m.jpg" group-title="📺 |VARIADOS", 8NTV (1080p)
+https://60417ddeaf0d9.streamlock.net/ntv/videontv/playlist.m3u8
+#EXTINF:-1 tvg-id="A&R Canal Adventista (720p)" tvg-name="A&R Canal Adventista (720p)" tvg-logo="https://live.staticflickr.com/65535/55117993324_716330304a_m.jpg" group-title="📺 |VARIADOS", A&R Canal Adventista (720p)
+http://51.222.9.192:3589/stream/play.m3u8
+#EXTINF:-1 tvg-id="Acento TV" tvg-name="Acento TV" tvg-logo="https://live.staticflickr.com/65535/55118127520_279a8a10ff_m.jpg" group-title="📺 |VARIADOS", Acento TV
+https://acentotv01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="Activa TV (720p)" tvg-name="Activa TV (720p)" tvg-logo="https://live.staticflickr.com/65535/55118132630_15cfaceb5b_m.jpg" group-title="📺 |VARIADOS", Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-id="ADN 40 (720p)" tvg-name="ADN 40 (720p)" tvg-logo="https://live.staticflickr.com/65535/55116871462_969cf1f9df_m.jpg" group-title="📺 |VARIADOS", ADN 40 (720p)
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="Aguacate TV (1080p)" tvg-name="Aguacate TV (1080p)" tvg-logo="https://live.staticflickr.com/65535/55117746416_39af5bf5b8_m.jpg" group-title="📺 |VARIADOS", Aguacate TV (1080p)
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Ahora TV (720p" tvg-name="Ahora TV (720p" tvg-logo="https://live.staticflickr.com/65535/55118016614_e2b4d689bf_m.jpg" group-title="📺 |VARIADOS", Ahora TV (720p
+https://tv.livestreaminggroup.info:3513/live/canal35live.m3u8
+#EXTINF:-1 tvg-id="Aliento Vision (720p)" tvg-name="Aliento Vision (720p)" tvg-logo="https://live.staticflickr.com/65535/55118150025_db21db6738_m.jpg" group-title="📺 |VARIADOS", Aliento Vision (720p)
+https://627bb251f23c7.streamlock.net:444/Alientoenvivo/Alientoenvivo/playlist.m3u8
+#EXTINF:-1 tvg-id="Amigos TV Chiquimula" tvg-name="Amigos TV Chiquimula" tvg-logo="https://live.staticflickr.com/65535/55117960273_b5d3f2db33_m.jpg" group-title="📺 |VARIADOS", Amigos TV Chiquimula
+https://antmedia.cablevisionrobles.com:5443/LiveApp/streams/CqwAgRagMvBNYN8c1731608980342.m3u8
+#EXTINF:-1 tvg-id="AMX Noticias (720p)" tvg-name="AMX Noticias (720p)" tvg-logo="https://live.staticflickr.com/65535/55118026959_a7aafcc20f_m.jpg" group-title="📺 |VARIADOS", AMX Noticias (720p)
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena Seis TV (720p)" tvg-name="Antena Seis TV (720p)" tvg-logo="https://live.staticflickr.com/65535/55117766441_22a4e885a8_t.jpg" group-title="📺 |VARIADOS", Antena Seis TV (720p)
+https://video1.azulstream.com:8081/antenaseistv/index.m3u8
+#EXTINF:-1 tvg-id="Antena SUR" tvg-name="Antena SUR" tvg-logo="https://live.staticflickr.com/65535/55117973613_ef908cfcfe_t.jpg" group-title="📺 |VARIADOS", Antena SUR
+https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
+#EXTINF:-1 tvg-id="Anzoátegui TV" tvg-name="Anzoátegui TV" tvg-logo="https://live.staticflickr.com/65535/55117977628_c0deb5e7bf_t.jpg" group-title="📺 |VARIADOS",Anzoátegui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-id="Atacama TV" tvg-name="Atacama TV" tvg-logo="https://live.staticflickr.com/65535/55117982848_6a294fafba_t.jpg" group-title="📺 |VARIADOS",Atacama TV
+https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 tvg-id="ATN Televisión (720p)" tvg-name="ATN Televisión (720p)" tvg-logo="https://live.staticflickr.com/65535/55116913732_81ebaea96d_t.jpg" group-title="📺 |VARIADOS",ATN Televisión (720p)
+https://streaming5.globalhostla.com/rtplive/atntelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="ATV+" tvg-name="ATV+" tvg-logo="https://live.staticflickr.com/65535/55117992418_d23b22b869_t.jpg" group-title="📺 |VARIADOS",ATV+
+https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
+#EXTINF:-1 tvg-id="Auténtica Televisión (720p)" tvg-name="Auténtica Televisión (720p)" tvg-logo="https://live.staticflickr.com/65535/55117792186_b53a708d0c_t.jpg" group-title="📺 |VARIADOS",Auténtica Televisión (720p)
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="Bajo Techo TV (1080p)" tvg-name="Bajo Techo TV (1080p)" tvg-logo="https://live.staticflickr.com/65535/55117997568_11775eda24_t.jpg" group-title="📺 |VARIADOS",Bajo Techo TV (1080p)
+https://fox.hostlagarto.com:8081/bajotechotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Bonches Latinos TV" tvg-name="Bonches Latinos TV" tvg-logo="https://live.staticflickr.com/65535/55118062329_41ab059698_t.jpg" group-title="📺 |VARIADOS",Bonches Latinos TV
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
+#EXTINF:-1 tvg-id="Buena TV (1080p)" tvg-name="Buena TV (1080p)" tvg-logo="https://live.staticflickr.com/65535/55118068724_0538068084_t.jpg" group-title="📺 |VARIADOS",Buena TV (1080p)
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+#EXTINF:-1 tvg-id="Cali TV" tvg-name="Cali TV" tvg-logo="https://live.staticflickr.com/65535/55118013218_974e8ff181_t.jpg" group-title="📺 |VARIADOS",Cali TV)
+https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="Cana TV Digital (720p)" tvg-name="Cana TV Digital (720p)" tvg-logo="https://live.staticflickr.com/65535/55118214745_9e627f878d_t.jpg" group-title="📺 |VARIADOS",Cana TV Digital (720p)
+https://stream.hostuis.com:19360/canatvdigital/canatvdigital.m3u8
+
 
 
