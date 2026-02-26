@@ -905,7 +905,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="■■■ VARIADOS ■■■" tvg-logo="https://live.staticflickr.com/65535/55117878700_7af91af8fc_m.jpg?q=65&w=50" group-title="📺 |VARIADOS",■■■ VARIADOS ■■■
 #EXTINF:-1 tvg-id="Costa Rica Channel" tvg-name="Costa Rica Channel" tvg-logo="https://live.staticflickr.com/65535/55111229063_5e6af0525f_m.jpg" group-title="📺 |VARIADOS",Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-name="Frecuencia Musical TV" tvg-logo="https://live.staticflickr.com/65535/55111341089_4a3f17d5be_m.jpg" group-title="📺 |VARIADOS",Frecuencia Musical TV
