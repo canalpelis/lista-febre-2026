@@ -1,7 +1,4 @@
 #EXTM3U
-EXTINF:-1, Winsport prueba 
-http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/892628.ts
-
 
 tvg-name="■■■ COLOMBIA ■■■" tvg-logo="https://cdn.livesoccertv.com/tt/images/flags/48/colombia.png?q=65&w=48" group-title="🇨🇴 | COLOMBIA",■■■ COLOMBIA ■■■
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/892628.ts
@@ -385,4 +382,6 @@ https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-203, Latin Zone TV (720p)
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
+EXTINF:-1, Winsport prueba 
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/892628.ts
 
