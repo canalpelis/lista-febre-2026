@@ -904,37 +904,37 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-203, Latin Zone TV (720p)
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
 
-#EXTINF:-1 tvg-id="Costa Rica Channel" tvg-name="Costa Rica Channel" tvg-logo="https://live.staticflickr.com/65535/55111229063_5e6af0525f_m.jpg" group-title="📺 | VARIADOS",Costa Rica Channel
+#EXTINF:-1 tvg-id="Costa Rica Channel" tvg-name="Costa Rica Channel" tvg-logo="https://live.staticflickr.com/65535/55111229063_5e6af0525f_m.jpg" group-title="📺 |VARIADOS",Costa Rica Channel
 https://video0.rogohosting.com:19360/8006/8006.m3u8
-#EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-name="Frecuencia Musical TV" tvg-logo="https://live.staticflickr.com/65535/55111341089_4a3f17d5be_m.jpg" group-title="📺 | VARIADOS",Frecuencia Musical TV
+#EXTINF:-1 tvg-id="Frecuencia Musical TV" tvg-name="Frecuencia Musical TV" tvg-logo="https://live.staticflickr.com/65535/55111341089_4a3f17d5be_m.jpg" group-title="📺 |VARIADOS",Frecuencia Musical TV
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="La 1 (720p)" tvg-name="La 1 (720p)" tvg-logo="https://logo.m3uassets.com/la1.png" group-title="📺 | VARIADOS",La 1 (720p)
+#EXTINF:-1 tvg-id="La 1 (720p)" tvg-name="La 1 (720p)" tvg-logo="https://logo.m3uassets.com/la1.png" group-title="📺 |VARIADOS",La 1 (720p)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-id="La 2 (720p)" tvg-name="La 2 (720p)" tvg-logo="https://logo.m3uassets.com/la2.png" group-title="📺 | VARIADOS",La 2 (720p)
+#EXTINF:-1 tvg-id="La 2 (720p)" tvg-name="La 2 (720p)" tvg-logo="https://logo.m3uassets.com/la2.png" group-title="📺 |VARIADOS",La 2 (720p)
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
-#EXTINF:-1 tvg-id="TVE Internacional" tvg-name="TVE Internacional" tvg-logo="https://live.staticflickr.com/65535/55117615411_50104f7d94_m.jpg" group-title="📺 | VARIADOS",TVE Internacional
+#EXTINF:-1 tvg-id="TVE Internacional" tvg-name="TVE Internacional" tvg-logo="https://live.staticflickr.com/65535/55117615411_50104f7d94_m.jpg" group-title="📺 |VARIADOS",TVE Internacional
 https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
-#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="📺 | VARIADOS",Las Estrellas
+#EXTINF:-1 tvg-id="Las Estrellas" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/154px-Las_Estrellas_logo_%282016%29.svg.png" group-title="📺 |VARIADOS",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="Latina (720p)" tvg-name="Latina (720p)" tvg-logo="https://i.postimg.cc/c1PqVdfF/logo-latina-despues.jpg" group-title="📺 | VARIADOS",Latina (720p)
+#EXTINF:-1 tvg-id="Latina (720p)" tvg-name="Latina (720p)" tvg-logo="https://i.postimg.cc/c1PqVdfF/logo-latina-despues.jpg" group-title="📺 |VARIADOS",Latina (720p)
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecosta (720p)" tvg-name="Telecosta (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfcQ8HBACi1qi1GUQaHX9O1C2zxg4_hCHjF1-jOs8COKYNhNM69Z9N5pk&s=10" group-title="📺 | VARIADOS",Telecosta (720p)
+#EXTINF:-1 tvg-id="Telecosta (720p)" tvg-name="Telecosta (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfcQ8HBACi1qi1GUQaHX9O1C2zxg4_hCHjF1-jOs8COKYNhNM69Z9N5pk&s=10" group-title="📺 |VARIADOS",Telecosta (720p)
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
-#EXTINF:-1 tvg-id="Telesur (480p)" tvg-name="Telesur (480p)" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 | VARIADOS",Telesur (480p)
+#EXTINF:-1 tvg-id="Telesur (480p)" tvg-name="Telesur (480p)" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 |VARIADOS",Telesur (480p)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur (720p)" tvg-name="Telesur (720p)" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 | VARIADOS",Telesur (720p)
+#EXTINF:-1 tvg-id="Telesur (720p)" tvg-name="Telesur (720p)" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 |VARIADOS",Telesur (720p)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur (1080p)" tvg-name="Telesur (1080p)" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 | VARIADOS",Telesur (1080p)
+#EXTINF:-1 tvg-id="Telesur (1080p)" tvg-name="Telesur (1080p)" tvg-logo="https://live.staticflickr.com/65535/55118032215_6b676d315d_m.jpg" group-title="📺 |VARIADOS",Telesur (1080p)
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TVS Retro (720p)" tvg-name="TVS Retro (720p)" tvg-logo="https://live.staticflickr.com/65535/55118042300_29670b2de6_m.jpg" group-title="📺 | VARIADOS",TVS Retro (720p)
+#EXTINF:-1 tvg-id="TVS Retro (720p)" tvg-name="TVS Retro (720p)" tvg-logo="https://live.staticflickr.com/65535/55118042300_29670b2de6_m.jpg" group-title="📺 |VARIADOS",TVS Retro (720p)
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="3ABN Latino" tvg-name="3ABN Latino" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNY--55ybg51vuNOafU3pEFKtjhcHEKWXCZQ&s" group-title="📺 | VARIADOS",3ABN Latino
+#EXTINF:-1 tvg-id="3ABN Latino" tvg-name="3ABN Latino" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNY--55ybg51vuNOafU3pEFKtjhcHEKWXCZQ&s" group-title="📺 |VARIADOS",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="5TV Corrientes" tvg-name="5TV Corrientes" tvg-logo="https://live.staticflickr.com/65535/55117667686_3a75283997_m.jpg" group-title="📺 | VARIADOS",5TV Corrientes
+#EXTINF:-1 tvg-id="5TV Corrientes" tvg-name="5TV Corrientes" tvg-logo="https://live.staticflickr.com/65535/55117667686_3a75283997_m.jpg" group-title="📺 |VARIADOS",5TV Corrientes
 https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN INTERNACIONAL" tvg-name="EWTN INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/55117876273_70ec08db4e_m.jpg" group-title="📺 | VARIADOS",EWTN INTERNACIONAL
+#EXTINF:-1 tvg-id="EWTN INTERNACIONAL" tvg-name="EWTN INTERNACIONAL" tvg-logo="https://live.staticflickr.com/65535/55117876273_70ec08db4e_m.jpg" group-title="📺 |VARIADOS",EWTN INTERNACIONAL
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="DW Español (720p)" tvg-name="DW Español (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DgT2Xzcch69mSpO1EGvdpsZuAc-Xk6e_kQ&s" group-title="📺 | VARIADOS",DW Español (720p)
+#EXTINF:-1 tvg-id="DW Español (720p)" tvg-name="DW Español (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DgT2Xzcch69mSpO1EGvdpsZuAc-Xk6e_kQ&s" group-title="📺 |VARIADOS",DW Español (720p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="RCN Internacional (720p)" tvg-name="RCN Internacional (720p)" tvg-logo="https://live.staticflickr.com/65535/55116816392_60feb2048f_m.jpg" group-title="📺 |VARIADOS", RCN Internacional (720p)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
