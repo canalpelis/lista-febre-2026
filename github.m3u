@@ -654,6 +654,8 @@ https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
 #EXTINF:-1 tvg-id="Globovision (720)" tvg-name="Globovision (720)" tvg-logo="https://live.staticflickr.com/65535/55118213649_f637e292b3_t.jpg" group-title="📺 |VARIADOS",Globovision (720)
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Venevision" tvg-name="Venevision" tvg-logo="https://live.staticflickr.com/65535/54618689429_1d053fbc35_w.jpg" group-title="📺 |VARIADOS",Venevision
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-id="Globovision 2" tvg-name="Globovision 2" tvg-logo="https://live.staticflickr.com/65535/55118213649_f637e292b3_t.jpg" group-title="📺 |VARIADOS",Globovision 2
 https://59d39900ebfb8.streamlock.net/globo-720p/globo-720p/chunklist_w1868238910.m3u8
 #EXTINF:-1 tvg-id="VPI TV Venezuela" tvg-name="VPI TV Venezuela" tvg-logo="https://live.staticflickr.com/65535/55118059541_84c8a77234_t.jpg" group-title="📺 |VARIADOS",VPI TV Venezuela
