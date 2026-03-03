@@ -713,7 +713,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 #EXTINF:-1 tvg-id="Antena SUR" tvg-name="Antena SUR" tvg-logo="https://live.staticflickr.com/65535/55117973613_ef908cfcfe_t.jpg" group-title="📺 |VARIADOS", Antena SUR
 https://cloudpro.servidoresdestream.com:8081/8010/index.m3u8
-#EXTINF:-1 tvg-id="Atacama TV" tvg-name="Atacama TV" tvg-logo="https://live.staticflickr.com/65535/55117982848_6a294fafba_t.jpg" group-title="📺 |VARIADOS", Atacama TV
+#EXTINF:-1 tvg-id="Atacama TV" tvg-name="Atacama TV" tvg-logo="https://live.staticflickr.com/65535/55126099682_9ef9de9aea_t.jpg" group-title="📺 |VARIADOS", Atacama TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8
 #EXTINF:-1 tvg-id="ATV+" tvg-name="ATV+" tvg-logo="https://live.staticflickr.com/65535/55117992418_d23b22b869_t.jpg" group-title="📺 |VARIADOS", ATV+
 https://d2qsan2ut81n2k.cloudfront.net/live/77eece7f-8de5-4406-9f7e-7be16d81f2ce/ts:abr.m3u8
@@ -821,7 +821,7 @@ http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Series " tvg-name="BBC Series " tvg-logo="https://live.staticflickr.com/65535/55118354839_21342af555_t.jpg" group-title="📺 |VARIADOS", BBC Series
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Brav TV" tvg-name="Brav TV" tvg-logo="https://live.staticflickr.com/65535/55118357749_2be227ab5d_t.jpg" group-title="📺 |VARIADOS", Brav TV
+#EXTINF:-1 tvg-id="Bravo TV" tvg-name="Bravo TV" tvg-logo="https://live.staticflickr.com/65535/55118357749_2be227ab5d_t.jpg" group-title="📺 |VARIADOS", Bravo TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 #EXTINF:-1 tvg-id="Canal 10 Durango" tvg-name="Canal 10 Durango" tvg-logo="https://live.staticflickr.com/65535/55118098451_c2782f6a5b_t.jpg" group-title="📺 |VARIADOS", Canal 10 Durango
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
