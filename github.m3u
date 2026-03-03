@@ -875,7 +875,7 @@ https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 #EXTINF:-1 tvg-id="Latin Zone TV (720p)" tvg-name="Latin Zone TV (720p)" tvg-logo="https://live.staticflickr.com/65535/55118197771_b514b8bdf6_t.jpg" group-title="📺 |VARIADOS", Latin Zone TV (720p)
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-#EXTINF:-1 tvg-id="Canal 24 Horas RTVE" tvg-name="Canal 24 Horas RTVE" tvg-logo="https://live.staticflickr.com/65535/55118197771_b514b8bdf6_t.jpg" group-title="📺 |VARIADOS", Canal 24 Horas RTVE
+#EXTINF:-1 tvg-id="Canal 24 Horas RTVE" tvg-name="Canal 24 Horas RTVE" tvg-logo="https://live.staticflickr.com/65535/55127265694_39bec9170e_t.jpg" group-title="📺 |VARIADOS", Canal 24 Horas RTVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="Tastemade en Español" tvg-name="Tastemade en Español" tvg-logo="https://live.staticflickr.com/65535/55127023241_61a8448766_t.jpg" group-title="📺 |VARIADOS", Tastemade en Español
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadees16international24i-ono/playlist.m3u8
