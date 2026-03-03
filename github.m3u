@@ -888,9 +888,12 @@ https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="Tenerife Plus+ TV" tvg-name="Tenerife Plus+ TV" tvg-logo="https://live.staticflickr.com/65535/55127124771_012607a269_t.jpg" group-title="📺 |VARIADOS",Tenerife Plus+ TV
 https://k20.usastreams.com:8081/tenerifeplus/index.m3u8
-#EXTINF:-1 tvg-id="Teleantioquia Colombia" tvg-name="Teleantioquia Colombia" tvg-logo="https://live.staticflickr.com/65535/55127327823_16697fb961_t.jpg" group-title="📺 |VARIADOS",Teleantioquia Colombia
-https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="Canal TRO Colombia" tvg-name="Canal TRO Colombia" tvg-logo="https://live.staticflickr.com/65535/55127147486_98439f65d5_t.jpg" group-title="📺 |VARIADOS",Canal TRO Colombia
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=" Rewind Music Channe" tvg-name=" Rewind Music Channe" tvg-logo="https://live.staticflickr.com/65535/55126679862_c3f5e41944_t.jpg" group-title="📺 |VARIADOS", Rewind Music Channe
+https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Grande TV (Ve)" tvg-name="Grande TV (Ve)" tvg-logo="https://live.staticflickr.com/65535/55127757848_6e91f487b6_t.jpg" group-title="📺 |VARIADOS",Grande TV (Ve)
+https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Net Channel Señal 2" tvg-name="Net Channel Señal 2" tvg-logo="https://live.staticflickr.com/65535/55127788089_e5a1814d5a_t.jpg" group-title="📺 |VARIADOS",Net Channel Señal 2
+https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+
 
 
