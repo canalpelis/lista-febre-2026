@@ -669,6 +669,16 @@ https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="DW Español (720p)" tvg-name="DW Español (720p)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1DgT2Xzcch69mSpO1EGvdpsZuAc-Xk6e_kQ&s" group-title="📺 |VARIADOS", DW Español (720p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="CNN Español" tvg-name="CNN Español" tvg-logo="https://live.staticflickr.com/65535/55128027605_2d2cf53960_t.jpg" group-title="📺 |VARIADOS",CNN Español
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1193500.ts
+#EXTINF:-1 tvg-id="CNN Español" tvg-name="CNN Español" tvg-logo="https://live.staticflickr.com/65535/55128027605_2d2cf53960_t.jpg" group-title="📺 |VARIADOS",CNN Español
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1193560.ts
+#EXTINF:-1 tvg-id="EURO NEWS Español" tvg-name="EURO NEWS Español" tvg-logo="https://live.staticflickr.com/65535/55126771042_75d7a56e63_t.jpg" group-title="📺 |VARIADOS",EURO NEWS Español
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1193579.ts
+#EXTINF:-1 tvg-id="Cable Noticias" tvg-name="Cable Noticias" tvg-logo="https://live.staticflickr.com/65535/55126780412_eaef1e9421_t.jpg" group-title="📺 |VARIADOS",Cable Noticias
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/818399.ts
+#EXTINF:-1 tvg-id="NTN24" tvg-name="NTN24" tvg-logo="https://live.staticflickr.com/65535/55126785912_7ab922d6ac_t.jpg" group-title="📺 |VARIADOS",NTN24
+http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639579.ts
 #EXTINF:-1 tvg-id="RCN Internacional (720p)" tvg-name="RCN Internacional (720p)" tvg-logo="https://live.staticflickr.com/65535/55116816392_60feb2048f_m.jpg" group-title="📺 |VARIADOS", RCN Internacional (720p)
 https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RCN+ (720p)" tvg-name="RCN+ (720p)" tvg-logo="https://live.staticflickr.com/65535/55117897308_aa8b0d69fe_m.jpg" group-title="📺 |VARIADOS", RCN+ (720p)
