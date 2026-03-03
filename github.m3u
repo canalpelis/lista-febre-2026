@@ -1,5 +1,3 @@
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="null" tvg-name="■■■ COLOMBIA ■■■" tvg-logo="https://cdn.livesoccertv.com/tt/images/flags/48/colombia.png?q=65&w=48" group-title="🇨🇴 | COLOMBIA", ■■■ COLOMBIA ■■■
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/892628.m3u8
@@ -631,6 +629,8 @@ https://video0.rogohosting.com:19360/8006/8006.m3u8
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="La 1 (720p)" tvg-name="La 1 (720p)" tvg-logo="https://logo.m3uassets.com/la1.png" group-title="📺 |VARIADOS", La 1 (720p)
 https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="La 1 (720p)" tvg-name="La 1 (720p)" tvg-logo="https://logo.m3uassets.com/la1.png" group-title="📺 |VARIADOS", La 1 (720p)
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 #EXTINF:-1 tvg-id="La 2 (720p)" tvg-name="La 2 (720p)" tvg-logo="https://logo.m3uassets.com/la2.png" group-title="📺 |VARIADOS", La 2 (720p)
 https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 #EXTINF:-1 tvg-id="TVE Internacional" tvg-name="TVE Internacional" tvg-logo="https://live.staticflickr.com/65535/55117615411_50104f7d94_m.jpg" group-title="📺 |VARIADOS", TVE Internacional
@@ -681,6 +681,8 @@ https://usmia02-edge.teveo.net/live/AeAAAgAFAADLA1IAyADIQCAAAAAAAAAAAmmnETq55doV
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal 1 (COLOMBIA)" tvg-name="Canal 1 (COLOMBIA)" tvg-logo="https://live.staticflickr.com/65535/55118134799_3c308d292e_t.jpg" group-title="📺 |VARIADOS", Canal 1 (COLOMBIA)
 https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8
+#EXTINF:-1 tvg-id="TELEANTIOQUIA" tvg-name="TELEANTIOQUIA" tvg-logo="https://live.staticflickr.com/65535/55127327823_16697fb961_t.jpg" group-title="📺 |VARIADOS",TELEANTIOQUIA
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist_DVR.m3u8
 #EXTINF:-1 tvg-id="Suram" tvg-name="Suram" tvg-logo="https://live.staticflickr.com/65535/55118377810_d76b2f2752_t.jpg" group-title="📺 |VARIADOS", Suram
 https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8
 #EXTINF:-1 tvg-id="Canal 2 Yopal" tvg-name="Canal 2 Yopal" tvg-logo="https://live.staticflickr.com/65535/55118371849_533cd496c8_t.jpg" group-title="📺 |VARIADOS", Canal 2 Yopal
@@ -821,7 +823,7 @@ http://181.114.57.246:4000/play/KgkA9tT2SpLYm86J/index.m3u8
 https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Series " tvg-name="BBC Series " tvg-logo="https://live.staticflickr.com/65535/55118354839_21342af555_t.jpg" group-title="📺 |VARIADOS", BBC Series
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Bravo TV" tvg-name="Bravo TV" tvg-logo="https://live.staticflickr.com/65535/55118357749_2be227ab5d_t.jpg" group-title="📺 |VARIADOS", Bravo TV
+#EXTINF:-1 tvg-id="Brav TV" tvg-name="Brav TV" tvg-logo="https://live.staticflickr.com/65535/55118357749_2be227ab5d_t.jpg" group-title="📺 |VARIADOS", Brav TV
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8?did=b2201035844768f58630b7eef
 #EXTINF:-1 tvg-id="Canal 10 Durango" tvg-name="Canal 10 Durango" tvg-logo="https://live.staticflickr.com/65535/55118098451_c2782f6a5b_t.jpg" group-title="📺 |VARIADOS", Canal 10 Durango
 https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
@@ -873,7 +875,6 @@ https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 https://streamyes.alsolnet.com/quebuenaatlanta/live/index.m3u8
 #EXTINF:-1 tvg-id="Latin Zone TV (720p)" tvg-name="Latin Zone TV (720p)" tvg-logo="https://live.staticflickr.com/65535/55118197771_b514b8bdf6_t.jpg" group-title="📺 |VARIADOS", Latin Zone TV (720p)
 https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8
-
 #EXTINF:-1 tvg-id="Canal 24 Horas RTVE" tvg-name="Canal 24 Horas RTVE" tvg-logo="https://live.staticflickr.com/65535/55118197771_b514b8bdf6_t.jpg" group-title="📺 |VARIADOS", Canal 24 Horas RTVE
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="Canal 24 Horas RTVE" tvg-name="Canal 24 Horas RTVE" tvg-logo="https://live.staticflickr.com/65535/55127265694_39bec9170e_t.jpg" group-title="📺 |VARIADOS", Canal 24 Horas RTVE
@@ -894,6 +895,7 @@ https://media.streambrothers.com:19360/adxwrggswc/adxwrggswc.m3u8?PlaylistM3UCL
 https://live20.bozztv.com/akamaissh101/ssh101/grandetv2240/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Net Channel Señal 2" tvg-name="Net Channel Señal 2" tvg-logo="https://live.staticflickr.com/65535/55127788089_e5a1814d5a_t.jpg" group-title="📺 |VARIADOS",Net Channel Señal 2
 https://media.streambrothers.com:19360/8158/8158.m3u8?PlaylistM3UCL
+
 
 
 
