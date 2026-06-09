@@ -675,6 +675,8 @@ http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1193500.m3u8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1193560.m3u8
 #EXTINF:-1 tvg-id="EURO NEWS Español" tvg-name="EURO NEWS Español" tvg-logo="https://live.staticflickr.com/65535/55126771042_75d7a56e63_t.jpg" group-title="📺 |VARIADOS",EURO NEWS Español
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/1193579.m3u8
+#EXTINF:-1 tvg-id="Cable Noticias web" tvg-name="Cable Noticias" tvg-logo="https://live.staticflickr.com/65535/55126780412_eaef1e9421_t.jpg" group-title="📺 |VARIADOS",Cable Noticias web
+https://app-videoplayer-proxy-prod-eu-001.azurewebsites.net/proxy/live/ngrp:cable09061970_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable Noticias" tvg-name="Cable Noticias" tvg-logo="https://live.staticflickr.com/65535/55126780412_eaef1e9421_t.jpg" group-title="📺 |VARIADOS",Cable Noticias
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/818399.m3u8
 #EXTINF:-1 tvg-id="Cable Noticias 2" tvg-name="Cable Noticias 2" tvg-logo="https://live.staticflickr.com/65535/55126780412_eaef1e9421_t.jpg" group-title="📺 |VARIADOS",Cable Noticias 2
