@@ -109,7 +109,7 @@ http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/861875.m3u8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/736227.m3u8
 #EXTINF:-1 tvg-id="AandE.mx" tvg-name="CINE | A&E ᴴᴰ²" tvg-logo="https://logo.m3uassets.com/ae.png" group-title="📺 | CINE PREMIUM", CINE | A&E ᴴᴰ²
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/802828.m3u8
-#EXTINF:-1, Unknown
+#EXTINF:-1, tvg-id="A&E.mx" tvg-name="CINE | A&E ᴴᴰ¹" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="📺 | CINE PREMIUM", CINE | A&E ᴴᴰ¹
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/802817.m3u8
 #EXTINF:-1 tvg-id="ATRES SERIES HD.co" tvg-name="CINE | A3SERIES" tvg-logo="https://clarovideocdn3.clarovideo.net/ATRESPLAYER/PELICULAS/A3SERIES/EXPORTACION_WEB/SS/A3SERIES_t-290x163.png" group-title="📺 | CINE PREMIUM", CINE | A3SERIES
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/737180.m3u8
