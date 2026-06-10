@@ -697,7 +697,7 @@ http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639570.m3u8
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/639563.m3u8
 #EXTINF:-1 tvg-id="SEÑAL COLOMBIA HD" tvg-name="SEÑAL COLOMBIA HD" tvg-logo="https://live.staticflickr.com/65535/55118309200_0424200560_t.jpg" group-title="📺 |VARIADOS", SEÑAL COLOMBIA HD
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="ENLACE BARRANCA " tvg-name="ENLACE BARRANCA " tvg-logo="https://live.staticflickr.com/65535/55117089502_d318bfa8c6_t.jpg" group-title="📺 |VARIADOS", ENLACE BARRANCA 
+#EXTINF:-1 tvg-id="ENLACE BARRANCA web " tvg-name="ENLACE BARRANCA web " tvg-logo="https://live.staticflickr.com/65535/55117089502_d318bfa8c6_t.jpg" group-title="📺 |VARIADOS", ENLACE BARRANCA web
 https://cabhs02-edge.teveo.net/live/AeABNmH8PSNxscBRSLF0LJ49p6lo_cZTUY5634xnproaK8pxzt1tcqkMpZDdGEBboyt5VmBfH6-lb-DpI-mYhovtVrUCcWjBorktZTlM0QRZtJTAew/playlist.m3u8
 #EXTINF:-1 tvg-id="Cali TV" tvg-name="Cali TV" tvg-logo="https://live.staticflickr.com/65535/55118013218_974e8ff181_t.jpg" group-title="📺 |VARIADOS", Cali TV)
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
