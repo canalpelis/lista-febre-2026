@@ -1,4 +1,90 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="Wow TV" tvg-name="Wow TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqSz5crRN6J58Tlh-ZY3OGTeTqJUS_cgTfW2VjA7Gew&s=10" group-title="📺 |VARIADOS", Wow TV
+https://cdn-edge1.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=8650024
+
+#EXTINF:-1 tvg-id="Sol TV" tvg-name="Sol TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzDJ0DBVM-IvigDtUGF5VFWCDIs8LD_BA6yELhnMFdDg&s=10" group-title="📺 |VARIADOS", Sol TV
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
+
+#EXTINF:-1 tvg-id="Popcorn TV" tvg-name="Popcorn TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy81fPsHV2iwgBLVivc8tYULEhDcZFxnpxROmQ5WC06g&s" group-title="📺 |VARIADOS", 
+Popcorn TV
+https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc_1080.m3u8
+
+#EXTINF:-1 tvg-id="Rakuten TV Family" tvg-name="Rakuten TV Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZgYZmxGBqkGnIIx-jijbDMdA-Tax8jBIcn7PVNRHg9v-K-oopH_4n4aU&s=10" group-title="📺 |VARIADOS", Rakuten TV Family
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/4158ed92-bd16-4306-8993-2ecdd56d7217/4.m3u8 
+
+#EXTINF:-1 tvg-id="Historia España TV" tvg-name="Historia España TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Historia_logo.jpg/revision/latest?cb=20220426223553&path-prefix=es" group-title="📺 |VARIADOS", Historia España TV
+https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
+
+#EXTINF:-1 tvg-id="Oromar  TV" tvg-name="Oromar Tv" tvg-logo="https://media.licdn.com/dms/image/v2/D4E0BAQFlS5cVvw5IWw/company-logo_200_200/company-logo_200_200/0/1714394895004?e=2147483647&v=beta&t=vPF9iZFEyn6fqaFYq0lFwuzcAJU4kaWL3mopt8Oj-9E" group-title="📺 |VARIADOS", Oromar Tv
+https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
+
+#EXTINF:-1 tvg-id="MiTv" tvg-name="MiTv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0WxP7KkJHbK5hC0kPi6X8tHVw8TIXbhNfSWls2f5cQg&s" group-title="📺 |VARIADOS", MiTv
+https://rds3.desdeparaguay.net/mitv/mitv/chunklist_w301812671.m3u8
+
+#EXTINF:-1 tvg-id="Extrema cartoons" tvg-name="Extrema cartoons" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgcf3C9ohQ_LJpLtaTZiostJUjmT75t4V4-wzA6NKPg&s=10" group-title="📺 |VARIADOS", Extrema cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Extrema accion" tvg-name="Extrema accion" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFgcf3C9ohQ_LJpLtaTZiostJUjmT75t4V4-wzA6NKPg&s=10" group-title="📺 |VARIADOS", Extrema accion 
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Neo TV" tvg-name="Neo TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0KyJZfN1HKWRseglbGKxWTIispRP4E0iRr8COJrVFZQ&s=10" group-title="📺 |VARIADOS", Neo TV
+https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+
+#EXTINF:-1 tvg-id="Disney junior" tvg-name="Disney junior" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4-4TGN_vlTfe6uUUkMS3bnNeo99NQpmiuN-IrVfcGpw&s=10" group-title="📺 |VARIADOS",Disney junior
+https://tr.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+
+#EXTINF:-1 PRIDE TV Peru 
+https://backend.energeek.cl/webtv/pridetvweb/tracks-v1a1/mono.ts.m3u8?token=ZZDemoIPTVGH
+
+#EXTINF:-1 la Red chile 
+https://ds5i0a12qngha.cloudfront.net/medialist_15609871089997455276_hls.m3u8
+
+#EXTINF:-1 tvg-id="13 series" tvg-name="13 series" tvg-logo="https://static.wikia.nocookie.net/teleserieschile/images/d/d8/Canal_13_2010_1.svg/revision/latest/scale-to-width/360?cb=20200701154733&path-prefix=es" group-title="📺 |VARIADOS", 13 series
+https://dai.google.com/linear/hls/pa/event/f4TrySe8SoiGF8Lu3EIq1g/stream/8a95dc8f-b816-4d6a-ad39-3f24441248e2:CHS/variant/abc7c8d468ab86748487f3d13e54b77e/bandwidth/4269891.m3u8
+
+#EXTINF:-1 tvg-id="13 Cultura chile" tvg-name="13 Cultura chile" tvg-logo="https://static.wikia.nocookie.net/teleserieschile/images/d/d8/Canal_13_2010_1.svg/revision/latest/scale-to-width/360?cb=20200701154733&path-prefix=es" group-title="📺 |VARIADOS", 13 Cultura chile
+https://dai.google.com/linear/hls/pa/event/GI-9cp_bT8KcerLpZwkuhw/stream/6b4d3448-28cd-4d56-b18d-ca9c19eb354d:ATL/variant/9ea3a15e5eae74e8479c3d9f99fa54ea/bandwidth/5935213.m3u8
+
+#EXTINF:-1 tvg-id="Unitel TV Peru" tvg-name="Unitel TV Peru" tvg-logo="https://yt3.googleusercontent.com/CARKe8eIuYycJZ9DqRc5KilTMKE4PK114XCWIXp4dKtrObpxoGzQO-_yKt06sZO-3Sgoy7glKtA=s900-c-k-c0x00ffffff-no-rj" group-title="📺 |VARIADOS", Unitel TV Peru
+https://play.agenciastreaming.com:8081/uniteltv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Tv en línea peru" tvg-name="Tv en línea peru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYIvf4zZ0n8opF0fbflFNZYEmUK2IWxgQAW6p8aDItCA&s=10" group-title="📺 |VARIADOS", Tv en línea peru
+https://srt.tvdatta.com/tvenlinea/index.m3u8
+
+#EXTINF:-1 tvg-id="Tv+ chincha peru" tvg-name="Tv+ chincha peru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrNMr3tKPYuitEG7tTsgiUS_Q32OiqidiOJ9-Y8fCmbQo_fhV8TN0VgNc&s=10" group-title="📺 |VARIADOS", Tv+ chincha peru
+https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Tele Lima Peru peru" tvg-name="Tele Lima Peru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROstQ6aOi36zV_hNGRzGHWn-bIahB6pdrcy_d8T5uYDw&s=10" group-title="📺 |VARIADOS", Tele Lima Peru
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
+
+#EXTINF:-1 tvg-id="mo Chanel peru" tvg-name="mo Chanel peru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvyx73l1_-xCdsSIFShzdMTTIeoj0VOY7pJoq8OWd-wg&s=10" group-title="📺 |VARIADOS", mo Chanel peru
+https://cloudvideo.servers10.com:8081/8070/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="lotPlus TV peru" tvg-name="lotPlus TV peru" tvg-logo="https://i.postimg.cc/fyzvypdv/logolotv2.png" group-title="📺 |VARIADOS", lotPlus TV peru
+https://ontvcable.streamottmas.workers.dev/?url=https%3A%2F%2Flive20.bozztv.com%2Fgiatv%2Fgiatv-Ontv%2FOntv%2Fchunks.m3u8
+
+#EXTINF:-1 tvg-id="frecuencia amazónica" tvg-name="frecuencia amazónica" tvg-logo="https://frecuenciaamazonicatv.com/wp-content/uploads/2023/06/cropped-LOGO-PNG-FA.png" group-title="📺 |VARIADOS", frecuencia amazónica
+https://vivatv.juanjuiserver.com:3349/live/frecuenciaamazonicalive.m3u8
+
+#EXTINF:-1 tvg-id="atv+" tvg-name="atv+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbwZaKAEMpC7CaDW23_jQ4-2JnxsvSYvYNbV7ybLGVMg&s=10" group-title="📺 |VARIADOS", atv+
+https://alba-pe-atv-atvmas.stream.mediatiquestream.com/original.m3u8
+
+
+#EXTINF:-1 tvg-id="atv sur peru" tvg-name="atv sur peru" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzlSCHRdPfOUShJJUuJ4C4LEj5bZwj-sl5vgpTL6_ShQ&s=10" group-title="📺 |VARIADOS",atv sur peru
+https://alba-pe-atv-atvsur.stream.mediatiquestream.com/original.m3u8
+
+#EXTINF:-1 tvg-id="telesangil hd" tvg-name="telesangil hd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx49qnkbTG75JksKncZEt3UhanoPyusCAABah-8dYa4w&s=10" group-title="📺 |VARIADOS",telesangil hd
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/chunks.m3u8
+
+#EXTINF:-1 tvg-id="telesangil " tvg-name="telesangil " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx49qnkbTG75JksKncZEt3UhanoPyusCAABah-8dYa4w&s=10" group-title="📺 |VARIADOS",telesangil 
+https://live20.bozztv.com/akamaissh101/ssh101/telesangil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mi canal" tvg-name="mi canal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV9V_aVEw6-mh6pN0hYALDGZlw3OAE9IHG-oXBl3RWag&s" group-title="📺 |VARIADOS", mi canal
+https://micanal.ovh/livestreams/262.D9DCDM7EXNRT.m3u8
+
+
+
 #EXTINF:-1 tvg-id="null" tvg-name="■■■ COLOMBIA ■■■" tvg-logo="https://cdn.livesoccertv.com/tt/images/flags/48/colombia.png?q=65&w=48" group-title="🇨🇴 | COLOMBIA", ■■■ COLOMBIA ■■■
 http://resellerestoestv.com/live/lupeLebrija/rd78qsaym/892628.m3u8
 #EXTINF:-1 tvg-id="Win+Futbol.co" tvg-name="CO | Win Sports + ¹ ★" tvg-logo="https://futbolete.com/wp-content/uploads/2022/03/win__3_0-300x169.jpg" group-title="🇨🇴 | COLOMBIA", CO | Win Sports + ¹ ★
