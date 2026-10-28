@@ -2,11 +2,9 @@
 
 #EXTM3U 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.zeno.fm/k9h0D7-wyDmg7Z3_O_l8KFXwV7OTk1_I_wu-f6f8nEg/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJN1lDTWlRZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJZzhqNnJ3b01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3OTE5NDk1OTE0NzA.webp" group-title=" Radio", estacion retro ssh100.com
-https://usb.bozztv.com/estacionretro24/index.m3u8
-
+https://live20.bozztv.com/akamaissh101/ssh101/estacionretro24/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.zeno.fm/k9h0D7-wyDmg7Z3_O_l8KFXwV7OTk1_I_wu-f6f8nEg/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNJN1lDTWlRZ01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNJZzhqNnJ3b01vZ0VFZW1WdWJ3L2ltYWdlLz91PTE3OTE5NDk1OTE0NzA.webp" group-title=" Radio", estacion retro
 https://stream-178.surfernetwork.com/9sy8zc0e2pzvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5c3k4emMwZTJwenZ2IiwiaG9zdCI6InN0cmVhbS0xNzguc3VyZmVybmV0d29yay5jb20iLCJydHRsIjo1LCJqdGkiOiJRcFZ4WGptNVRFMlBYal9DR090T0NnIiwiaWF0IjoxNzkxOTQ5OTM3LCJleHAiOjE3OTE5NDk5OTd9.6HIYG1kpCY2KisdHuzDw3JDH2O6vsTyFLn8w_wNWJ5o
-
 #EXTINF:-1,Runtime Espanol (720p)
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1,AXN Latin America (1080p)
