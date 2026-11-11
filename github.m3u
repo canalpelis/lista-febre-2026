@@ -2,7 +2,7 @@
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="canalpelistv" tvg-name="CanalPelisTV" tvg-logo="https://live.staticflickr.com/65535/55646092784_14daaedddd.jpg" group-title=" Radio",estacionretrook
+#EXTINF:-1 tvg-id="canalpelistv" tvg-name="CanalPelisTV" tvg-logo="https://live.staticflickr.com/65535/55646092784_14daaedddd.jpg" group-title=" Radio",estacionretrook-pelis
 https://183.giatvcdn.com/ssh101/ssh101/estacionretrook/chunks.m3u8
 #EXTINF:-1 tvg-id="canalpelistv" tvg-name="CanalPelisTV" tvg-logo="https://live.staticflickr.com/65535/55642956321_32c9d737ec.jpg" group-title=" Radio",CanalPelisTV live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
