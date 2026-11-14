@@ -1,7 +1,8 @@
 
 
 #EXTM3U
-
+#EXTINF:-1 tvg-id="canalpelistv" tvg-name="CanalPelisTV" tvg-logo="https://live.staticflickr.com/65535/55646092784_14daaedddd.jpg" group-title=" Radio",el hombre increíble 1x1
+http://192.168.1.5:30001/file/LQnYkcmO/video.mp4
 #EXTINF:-1 tvg-id="canalpelistv" tvg-name="CanalPelisTV" tvg-logo="https://live.staticflickr.com/65535/55646092784_14daaedddd.jpg" group-title=" Radio",de Telegram 
 http://192.168.1.5:30001/file/x4lrk1Mo/video.mp4
 #EXTINF:-1 tvg-id="canalpelistv" tvg-name="CanalPelisTV" tvg-logo="https://live.staticflickr.com/65535/55646092784_14daaedddd.jpg" group-title=" Radio",estacionretrook-pelis
